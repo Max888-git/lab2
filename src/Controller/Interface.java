@@ -9,9 +9,9 @@ public class Interface{
 
         Client client = new Client.Builder()
                 .setBDay(LocalDate.of(2019,10, 10))
-                .setEmail("dstefurak@email.net")
-                .setFName("Dmytro")
-                .setLName("Stefurak")
+                .setEmail("dgknjng@gmail.com")
+                .setFName("Max")
+                .setLName("Leka")
                 .setPaymentInfo("0000-0000-0000-0000")
                 .setPhone("+380 5088 340 11")
                 .build();
